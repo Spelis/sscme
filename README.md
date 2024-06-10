@@ -14,9 +14,11 @@ probably gonna abandon this pretty quickly.
 
 # Changelog:
 ## 1.0:
-* added Saving (press S)
-* added Cursor (press Left/Right Arrow)
-* added Incrementing character selector (press Up/Down Arrow)
-* added Input System (press Enter)
-* added Copy (press C)
-* added Paste (press V)
+* added 💾 Saving (press S)
+* added 🖱️ Cursor (press Left/Right Arrow)
+* added ➕ Incrementing character selector (press Up/Down Arrow)
+* added ⌨️ Input System (press Enter)
+* added 🫴 Copy (press C)
+* added 🫳 Paste (press V)
+## 1.1:
+* hehe added emojis for features
